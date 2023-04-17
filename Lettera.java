@@ -11,5 +11,9 @@ public class Lettera {
     public int getId() {
         return id;
     }
+    
+    public static int numeroLettere(){
+        return contatore;
+    }
 }
 
